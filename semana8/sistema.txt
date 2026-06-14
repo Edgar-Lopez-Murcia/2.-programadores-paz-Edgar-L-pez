@@ -1,0 +1,15 @@
+comando uname -a explicación:
+
+Este comando nos muestra toda la información básica sobre la 
+computadora virtual y su sistema operativo: 
+
+Linux codespaces-0bc820 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu 
+Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+comando whoami explicación:
+
+Nos dice qué usuario somos dentro de esa máquina virtual
+(generalmete  codespace o vscode que son los nombres genericos de
+GitHub):
+
+codespace

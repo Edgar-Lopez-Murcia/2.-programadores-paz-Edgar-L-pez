@@ -1,0 +1,5 @@
+1. Evitar enlaces sospechosos.
+2. Separar cuentas personales.
+3. Reportar publicaciones dañinas.
+4. Borrar cuentas inactivas.
+5. Revisar permisos concedidos.
