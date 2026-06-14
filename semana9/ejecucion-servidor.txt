@@ -1,0 +1,16 @@
+Ejecucion del servidor:
+
+cuando yo ejecuto node server.js se enciende el servidor y puedo
+encontrarlo en http://localhost:3000 o en el code space me sale una opcion para
+abrir el servidor en una pagina web.
+
+lo que aparece en la terminal con inicializo el servidor es:
+Servidor ejecutándose en puerto 3000.
+
+Por ultimo cuando visito  la ruta /estado aparece en la pagina 
+lo sigiente: 
+
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

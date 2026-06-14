@@ -1,0 +1,16 @@
+identificar los componntes de un servidor: 
+
+Sistema operativo: Es el programa principal que controla toda la computadora y hace que los componentes físicos funcionen correctamente y
+se encarga de prestarle memoria y poder a tus aplicaciones para que puedan arrancar.
+  
+Node.js: Es el entorno que le permite a ls computadora entender y ejecutar código de JavaScript fuera de un navegador web es por eso
+que gracias a él podemos usar este lenguaje para crear programas y servidores en nuestro equipo.
+ 
+Aplicación server.js: Es el archivo de código .js donde escribimos codigo en JavaScript para dar las instrucciones de nuestro proyecto y espor eso
+que su función es crear el servidor, definir las rutas API y decidir qué responder cuando alguien las visita.
+  
+Puerto: Es como una puerta o canal digital específico dentro de la computadora (por ejemplo, el 3000 que es el que mas usamos) que se abre para wur el servidor funcione
+y sirve para que las visitas de internet sepan exactamente por dónde entrar a nuestra pagina.
+
+LogsSon: es el historial de mensajes en texto que nuestro servidor va anotando en la terminal mientras está encendido
+y nos sirven para ver en tiempo real quién entra a la página o si ocurrió algún error en el código.
